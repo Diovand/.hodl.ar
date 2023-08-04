@@ -44,14 +44,10 @@ blocks:
   - title: Github
     icon: github
     url: https://github.com/Diovand
-
-# - title: Sitio Web
-#   icon: url
-#   url: https://www.TU-WEB.coma
-
- - title: Telegram
-   icon: telegram
-   url: https://t.me/Keygenn
+    
+  - title: Telegram
+    icon: telegram
+    url: https://t.me/Keygenn
     
 # Guardá el archivo haciendo click en Commit Changes, abajo
 # Volvé a las instrucciones
