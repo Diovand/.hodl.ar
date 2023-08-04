@@ -18,11 +18,11 @@ html:
 # Colores de plantilla
 theme:
   background_color: "#0F0F0B"
-  # cover_color: "#ff7070"
+  cover_color: "#ff7070"
 
 # Configuración Central
 main:
-  title: Keygenn # Aca podes poner tu nombre o el de tu producto
+  title: Keller # Aca podes poner tu nombre o el de tu producto
 
 # Lista de bloques
 blocks:
